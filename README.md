@@ -35,10 +35,10 @@ ___EVKLID___
 
 
 
-<strong >
+<strong style="display: block; text-align: center">
 Спасибо за внимание!
 </strong>
----
+
 
 
 ---
