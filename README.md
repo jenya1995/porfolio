@@ -35,7 +35,7 @@ ___EVKLID___
 
 
 
-<strong style="display: block; text-align: center">
+<strong>
 Спасибо за внимание!
 </strong>
 
